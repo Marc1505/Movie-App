@@ -1,0 +1,34 @@
+.container {
+    text-align: center;
+}
+ 
+.logo {
+    margin-top: 20px;
+}
+ 
+.search-container {
+    margin-top: 20px;
+}
+ 
+.search-container input[type=text] {
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+ 
+.search-container button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+ 
+.movie {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
