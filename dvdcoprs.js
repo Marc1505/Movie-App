@@ -18,7 +18,7 @@
 // Pusher sur guthub une fois fini !! 
 
 
-const apiKey = 'd95077e5';
+const apiKey = '6da22882';
 const apiUrl = `http://www.omdbapi.com/?apikey=${apiKey}&`;
  
 async function searchMovies(searchTerm) {
